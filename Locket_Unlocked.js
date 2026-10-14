@@ -2,7 +2,7 @@
 // Locket Remote Config Rewrite
 // Endpoint: firebaseremoteconfig.googleapis.com
 // Dùng cho: Loon / Quantumult X / Surge / Shadowrocket
-// Tác giả: @duyvinh09
+// Tác giả: @zaidepbuon
 // ============================================================
 
 var ua = $request.headers["User-Agent"] || $request.headers["user-agent"] || "";
@@ -54,7 +54,7 @@ if (ua.includes("Locket")) {
             title: "Lên đời Gold rồi nha 😎",
             feature_set: [
                 {
-                    title: "Nhớ theo dõi kênh tiktok @duyvinh.09",
+                    title: "Nhớ theo dõi kênh facebook @Hoang Dinh Long",
                     body: "Tài khoản đã full Locket Gold Premium. Flex với hội bạn thôi nào 🔥",
                     imageURL: "https://i.ibb.co/rGfq2Yt1/logobaner.png"
                 }
